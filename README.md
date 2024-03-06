@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Vikram Sankhala
 #### Full Stack Developer
-![Full Stack Developer](https://drive.google.com/file/d/1Uhap5p0tUC4XrzXybktPt5v8pJwNu9DX/view?usp=sharing)
+
 
 
 I'm a full-stack developer, constantly curious about learning new technologies. I enjoy building both front-end and back-end solutions, always striving to stay updated and grow my skills
