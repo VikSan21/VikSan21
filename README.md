@@ -31,9 +31,11 @@
   <a href="https://www.hackerrank.com/mr_viksan">
     <img src="https://img.shields.io/badge/hackerrank-333333?style=for-the-badge&logo=hackerrank&logoColor=blue" />
   </a>
-<!--   <a href="https://salesp07.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a> -->
+    <!--
+  <a href="https://salesp07.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
+  </a> 
+-->
 </div>
 
  <hr/>
